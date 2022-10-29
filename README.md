@@ -1,4 +1,4 @@
-# Gaming Gear
+# Preoyecto Final
 Este proyecto fue realizado mediante el framework ReactJS, con el fin de implementar los conceptos aprendidos en el curso de Coderhouse.
 
 ## Introducción
