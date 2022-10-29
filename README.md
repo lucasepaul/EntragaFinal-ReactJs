@@ -14,13 +14,13 @@ En la consola de su ordenador, puede escribir los siguientes comandos en orden s
 Cree una carpeta, y copie los archivos de esta rama escribiendo
 
 ```sh
-git clone 
+git clone https://github.com/lucasepaul/EntragaFinal-ReactJs.git
 ```
 
 Ejecute luego
 
 ```sh
-cd 
+cd EntragaFinal-ReactJs
 ```
 
 Para ubicarse en la raiz del directorio del proyecto e instalar las dependencias a continuación
@@ -98,10 +98,6 @@ Con el mismo, verá que el sitio se pondrá en funcionamiento en una URL localho
 ## Otras consideraciones
 
 Para que el proyecto tenga contenido, se utilizaron variables de entorno que son almacenadas de manera local, por lo que no se visualizarán los productos a menos de que el desarrollador le de acceso a las variables de entorno de manera privada. Para almacenar los datos de los productos y categorías se creó un proyecto en Firebase.
-
-El proyecto también se encuentra disponible para visualizar y comprobar el funcionamiento en la plataforma Vercel. Acceda a través de
-
-https://gaminggear.vercel.app/
 
 Cortos que muestran la funcionalidad de:
 
