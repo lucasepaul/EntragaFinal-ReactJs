@@ -14,13 +14,13 @@ En la consola de su ordenador, puede escribir los siguientes comandos en orden s
 Cree una carpeta, y copie los archivos de esta rama escribiendo
 
 ```sh
-git clone https://github.com/lucasepaul/EntragaFinal-ReactJs.git
+git clone https://github.com/lucasepaul/EntregaFinal-ReactJs.git
 ```
 
 Ejecute luego
 
 ```sh
-cd EntragaFinal-ReactJs
+cd EntregaFinal-ReactJs
 ```
 
 Para ubicarse en la raiz del directorio del proyecto e instalar las dependencias a continuación
